@@ -1,5 +1,4 @@
-# Heading
-Python Program to Read One Integer and One Float Value and Print the Values
+# Python Program to Read One Integer and One Float Value and Print the Values
 
 # Aim
 To write a Python program that reads an integer and a float value from the user and prints them.
